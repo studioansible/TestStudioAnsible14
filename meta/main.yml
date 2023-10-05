@@ -1,0 +1,18 @@
+galaxy_info:
+  role_name: new_role_1
+  author: testPublish
+  description: final round of testing before releasing
+  company: '-'
+  issue_tracker_url: '-'
+  license: MIT
+  min_ansible_version: '-'
+  min_ansible_container_version: '--'
+  github_branch: '-'
+  galaxy_tags:
+    - test
+    - release
+  platforms:
+    - name: macOS
+      versions:
+        - all
+dependencies: []
